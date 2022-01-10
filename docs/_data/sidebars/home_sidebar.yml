@@ -10,7 +10,7 @@ entries:
       title: Overview
       url: /
     - output: web,pdf
-      title: The module name is called nbdev test
+      title: MOdule
       url: core.html
     output: web
     title: hello_nbdev
